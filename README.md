@@ -49,12 +49,17 @@ Lets add the script that we used for [GMS2 Positioning Text](https://github.com/
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`ITB`| :small_orange_diamond:
-Now we will add a variable to this game object.  Open obj_hello_world_text and press <tt><b>Variable Definitions</b></tt> button.  Press the <tt><b>Add</b></tt> button.  Change the type to <tt><b>String</b></tt>. Then we change the variable <tt><b>name</b></tt> to <tt>text</tt> and the <b>Default</b> value to <tt>Hello World!</tt>.
-![alt_text](images/.png)
+
+Open up **rm_variable1** and change the **Properties | Width** to `1024`.  Drag a copy of **obj_variables** to the middle of the room. Double click the icon in the room and change the **x** to `512` and the **y** to ``.  *Run* the game and you should see hello world printed and centered. 
+
+![add obj_variables to room and center text run and test](images/HelloWorldInRoom.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 6.`\|`ITB`| :small_orange_diamond: :small_blue_diamond:
+
+Now we will add a variable to this game object.  Open **obj_variable** and *press* **Variable Definitions** button.  *Press* the <kbd>Add</kbd> button.  *Change* the type to **String**. Then lets *change* the variable name to text and the Default value to `Hello World!`.
+
 
 ![alt_text](images/.png)
 
