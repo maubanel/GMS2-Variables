@@ -44,7 +44,7 @@ Right click on **Objects** in the **Asset Browser** and select **Create | Object
 
 Lets add the script that we used for [GMS2 Positioning Text](https://github.com/maubanel/GMS2-Positioning-Text). It changes the formatting to centering the text then prints the word **Hello World** to the screen.
 
-![alt_text](images/.png)
+![alt_text](images/ScriptPrintingText.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
