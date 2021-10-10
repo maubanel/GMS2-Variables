@@ -58,7 +58,7 @@ Open up **rm_variable1** and change the **Properties | Width** to `1024`.  Drag 
 
 ##### `Step 6.`\|`ITB`| :small_orange_diamond: :small_blue_diamond:
 
-Now we will add a variable to this game object.  Open **obj_variable** and *press* **Variable Definitions** button.  *Press* the <kbd>Add</kbd> button.  *Change* the type to **String**. Then lets *change* the variable name to text and the Default value to `Hello World!`.
+Now we will add a variable to this game object.  Open **obj_variable** and *press* **Variable Definitions** button.  *Press* the <kbd>Add</kbd> button.  *Change* the type to `String`. Then lets *change* the variable name to `text` and the Default value to `Hello World!`.
 
 
 ![alt_text](images/.png)
