@@ -86,9 +86,8 @@ Now you can also have multiple copies of a single object in the Room/Level.  Eac
 
 *Type* in something new like `Hello Marco!` (you can substitue Marco with your name if you prefer). This will make the change for this single object.  If you remove this (by pressing the minus icon where the pencil used to be) it will go back to its original default value of Hello World!. Press the *Run* button to see that you can use the same variable with different values in each instance.  This is because each game instance holds an entire set of all the variables and can be saved indipendantly of each other.
 
-![Go to instance of object in room and type hello Marco!](images/.png)
+![Go to instance of object in room and type hello Marco!](images/addvariableinstande.gif)
 
-![Game runs hellow world with proper centering](images/HelloWorldInGameCenter.png)
 
 | `gms2.variables`\|`THE END`| 
 | :--- |
