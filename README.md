@@ -82,7 +82,11 @@ Now *run* the game by pressing the <kbd>Play</kbd> Button in the top menu bar to
 
 ##### `Step 9.`\|`ITB`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now you can also have multiple copies of a single object in the Room/Level.  Each copy is referred to as an **instance**.  Each **instance** can have a different value for the text variable.  To change this single instance *open* the room by *double left clicking* on rm_variable1 then add another copy of **obj_variable** underneath the centered one. Then press the Variables button and it brings out another fly out window.  *Press* the <kbd>Pencil</kbd> button to edit the Value.  
+
+*Type* in something new like `Hello Marco!` (you can substitue Marco with your name if you prefer). This will make the change for this single object.  If you remove this (by pressing the minus icon where the pencil used to be) it will go back to its original default value of Hello World!. Press the *Run* button to see that you can use the same variable with different values in each instance.  This is because each game instance holds an entire set of all the variables and can be saved indipendantly of each other.
+
+![Go to instance of object in room and type hello Marco!](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
