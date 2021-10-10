@@ -66,8 +66,6 @@ Now we will add a variable to this game object.  Open **obj_variable** and *pres
 
 ##### `Step 7.`\|`ITB`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now *run* the game by pressing the <kbd>Play</kbd> Button in the top menu bar to launch the game.  You will see that it doesn't show the word **text** the name of the variable, but instead the **value** that is inside it `Hello World!`.
-
 Go back to the **Draw Event** in **obj_hello_world_text** and *replace* the string text with the **variable** name text.
 
 ![Replace hard coded string with variable name text](images/ReplaceHardCodedString.png)
@@ -76,7 +74,9 @@ Go back to the **Draw Event** in **obj_hello_world_text** and *replace* the stri
 
 ##### `Step 8.`\|`ITB`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now *run* the game by pressing the <kbd>Play</kbd> Button in the top menu bar to launch the game.  You will see that it doesn't show the word **text** the name of the variable, but instead the **value** that is inside it `Hello World!`.
+
+![Game running with variable being used instead of hard coded text](images/HelloWorldVariable.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
