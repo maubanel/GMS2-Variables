@@ -60,12 +60,13 @@ Open up **rm_variable1** and change the **Properties | Width** to `1024`.  Drag 
 
 Now we will add a variable to this game object.  Open **obj_variable** and *press* **Variable Definitions** button.  *Press* the <kbd>Add</kbd> button.  *Change* the type to `String`. Then lets *change* the variable name to `text` and the Default value to `Hello World!`.
 
-
 ![add text variable with a value of Hello World!](images/AddHWVariable.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 7.`\|`ITB`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now *run* the game by pressing the <kbd>Play</kbd> Button in the top menu bar to launch the game.  You will see that it doesn't show the word **text** the name of the variable, but instead the **value** that is inside it `Hello World!`.
 
 Go back to the **Draw Event** in **obj_hello_world_text** and *replace* the string text with the **variable** name text.
 
