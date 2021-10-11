@@ -92,9 +92,9 @@ Now you can also have multiple copies of a single object in the Room/Level.  Eac
 
 ##### `Step 10.`\|`ITB`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now you can also have multiple copies of a single object in the Room/Level.  Each copy is referred to as an **instance**.  Each **instance** can have a different value for the text variable.  To change this single instance *open* the room by *double left clicking* on rm_variable1 then add another copy of **obj_variable** underneath the centered one. Then press the Variables button and it brings out another fly out window.  *Press* the <kbd>Pencil</kbd> button to edit the Value.  
+Select the **File | Save Project** then press **File | Quit** to make sure everything in the game is saved. If you are using **GitHub** open up **GitHub Desktop** and add a title and longer description (if necessary) and press the <kbd>Commit to main</kbd> button. Finish by pressing **Push origin** to update the server with the latest changes.
 
-
+![save, quit, commit and push to github](images/GitHub.png)
 
 | `gms2.variables`\|`THE END`| 
 | :--- |
